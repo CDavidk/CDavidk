@@ -41,7 +41,7 @@
 <h3 align="center">Journey</h3>
 
 <p align="center">
-  <img src="./assets/journey.svg" width="100%" alt="Experience and education" />
+  <img src="./assets/journey-v2.svg" width="100%" alt="Experience and education" />
 </p>
 
 <br/>
