@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:[[EMAIL]]"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" /></a>
-  <a href="[[CV_URL]]"><img src="https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=readdotcv&logoColor=58a6ff" /></a>
+  <a href="mailto:cristhian.gomez@upb.edu.co"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" /></a>
   <img src="https://img.shields.io/badge/Open_to_work-58a6ff?style=for-the-badge" />
 </p>
 
@@ -41,23 +40,19 @@
 <h3 align="center">Journey</h3>
 
 <p align="center">
-  <img src="./assets/journey-v2.svg" width="100%" alt="Experience and education" />
+  <img src="./journey-v2.svg" width="100%" alt="Experience and education" />
 </p>
 
 <br/>
 
 <h3 align="center">Looking for</h3>
 
-<table align="center">
-<tr>
-<td align="center" width="33%"><b>Roles</b><br/><sub>Frontend · Fullstack<br/>Junior Game Developer<br/>Security Analyst (junior)</sub></td>
-<td align="center" width="33%"><b>Best at</b><br/><sub>Angular · TypeScript<br/>Go · PostgreSQL<br/>Java · REST APIs</sub></td>
-<td align="center" width="33%"><b>Modality</b><br/><sub>Remote · Hybrid<br/>On-site in Bucaramanga<br/>Spanish (native) · English C1</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./looking.svg" width="100%" alt="Roles, strongest stack and modality" />
+</p>
 
 <br/>
 
 <p align="center">
-  <sub>Have a role or a project in mind? <a href="mailto:[[EMAIL]]">Send me an email</a>.</sub>
+  <sub>Have a role or a project in mind? <a href="mailto:cristhian.gomez@upb.edu.co">Send me an email</a>.</sub>
 </p>
